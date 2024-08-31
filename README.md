@@ -1,1 +1,0 @@
-# Smart-CCTV-Violence-Detection-with-Signal-Alerting
